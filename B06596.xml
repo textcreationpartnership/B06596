@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sherlock against Sherlock. The master of the temple's reasons for his late taking the oath to their Majesties, answered, / by the rector of St. George Botolph-Lane. With modest remarks on the doctors celebrated notions of allegiance to soveraign powers.</title>
+            <author>Wagstaffe, Thomas, 1645-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06596</idno>
+            <idno type="STC">Wing W216A</idno>
+            <idno type="STC">ESTC R186142</idno>
+            <idno type="EEBO-CITATION">51784694</idno>
+            <idno type="OCLC">ocm 51784694</idno>
+            <idno type="VID">175094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175094)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2712:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sherlock against Sherlock. The master of the temple's reasons for his late taking the oath to their Majesties, answered, / by the rector of St. George Botolph-Lane. With modest remarks on the doctors celebrated notions of allegiance to soveraign powers.</title>
+                  <author>Wagstaffe, Thomas, 1645-1712.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>and are to be sold by Alexander Henderson ...,</publisher>
+                  <pubPlace>Printed at London, ;</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh, :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, dark, print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherlock, William, 1641?-1707. --  Case of the allegiance due to soveraign powers.</term>
+               <term>Sherlock, William, 1641?-1707. --  Case of resistance of the supreme powers stated and resolved.</term>
+               <term>Religion and politics --  Great Britain --  Early works to 1800.</term>
+               <term>Divine right of kings --  Early works to 1800.</term>
+               <term>Authority --  Early works to 1800.</term>
+               <term>Government, Resistance to --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175094:1"/>
+            <pb facs="tcp:175094:1" rendition="simple:additions"/>
+            <p>SHERLOCK againſt SHERLOCK.</p>
+            <p>The Maſter of the TEMPLE's REASONS FOR His late taking the OATH to Their MAJESTIES, ANSWERED, BY THE Rector of St. <hi>George Botolph-Lane.</hi> WITH MODEST REMARKS On the Doctors Celebrated NOTIONS OF ALLEGIANCE TO SOVERAIGN POWERS.</p>
+            <q>
+               <l>—Quantum Mutatus ab illo.</l>
+               <l>Turpe eſt <hi>Doctori,</hi> cum culpa redarguit Ipſum.</l>
+            </q>
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh,</hi> and are to be Sold by <hi>Alexander Henderſon</hi> Bookſeller at the upper-end of the <hi>Locken-Booths.</hi> 1691.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:175094:2"/>
+            <head>THE PREFACE</head>
+            <p>THE Church of <hi>Rome</hi>'s Pretence to <hi>Infalibility,</hi> has been decryed by not a few, who at the ſame time, have been as <hi>Dogmatical</hi> in every <hi>Punctilio,</hi> or things wholly Extrinſick to the Chriſtian Religion; as if the ſingular <hi>Priviledge</hi> of the <hi>Church</hi> had been transplanted from <hi>Rome to a People that would bring forth better <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thereof:</hi> Nor has this <hi>Imperious Principle</hi> confined it ſelf to thoſe things which ſeem more within it ſphere (which if done in <hi>Moderation,</hi> would never have been <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by the Sober part of Mankind) but has encroacht upon <hi>Politicians,</hi> on a prete<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of rectifying the Unchriſtian Principles they had infected the World with: As if there was to be no man<g ref="char:EOLhyphen"/>ner of knowledge in the Univerſe, but <hi>what ſhould proceed from the Prieſts Lips:</hi> And the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Thummim of theſe Holy Ones</hi> hath contributed not a little (by rubbing off the <hi>Laodicean T<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>per</hi>) to inflame the World with a <hi>Blind Zeal</hi> and Virulent Hatred; and to ſet a Man and his Friends a variance together: And all this is propagated by means of a Folliſh belief in the more ſimple People, of the Infallibility of thoſe Perſons, from a <hi>Blind Reverence</hi> given to them, on the account of this <hi>Function.</hi>
+            </p>
+            <p>That this is no fiction, will appear beyond all Contradiction, if we but conſider what hath been <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out of <hi>Pulpits,</hi> and not long ago dropt from the <hi>Pens</hi> of not a few, who have been accounted the great <hi>Proficients</hi> in <hi>Reaſon,</hi> and meerly upon the foreſaid account, greedily ſwallowed up by the more <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſiderate; tho' the more knowing of that ſide, eſpouſed thoſe <hi>Tenets,</hi> from a more pernicious Prin<g ref="char:EOLhyphen"/>ciple, that they might the eaſier, like the great Fiſhes, domineer over, and devour others; and he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wholly abandoned his Reaſon; to whatever their Caprice ſuggeſts, who has the Face to deny it.</p>
+            <p>Among all others, none has appeared a ſtouter Champion for thoſe <hi>Tenets</hi> in General, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Learned Doctor:</hi> And, for ought I know, none has contributed more to encreaſe the number of <hi>Mal contents,</hi> to their preſent Majeſties, from thoſe Principles, than <hi>He</hi> has; And yet, we ſee, how, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a ſudden. <hi>He</hi> has been pleaſed to Act Diametrically, contrary to them; tho', at the ſame time, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Vindication, He</hi> ſeems ſtill to own them: which, in the Eyes of all underſtanding Men, is no <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than for a Perſon to inveigh loudly againſt all manner of Debauchery, and yet, at the ſame time, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> guilty of ſome notorious Acts of it.</p>
+            <p>I am glad, that this <hi>Learned Perſon</hi> has taken the <hi>Oaths,</hi> (whatever was his Motive in doing ſo) as St. <hi>Paul</hi> was glad that <hi>Chriſt</hi> was Preached; tho' ſome did it out of Envy, and others, from <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other ſiniſter Principle: But that the <hi>Doctor</hi> ſhould Vindicate his taking the <hi>Oaths,</hi> and yet <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> former Principles, is, I confeſs a Riddle beyond my Capacity to unfold. I have therefore briefly pro<g ref="char:EOLhyphen"/>poſed to publick Conſideration, what the <hi>Doctor</hi> has formerly propoſed as Matters of higheſt <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tance, which ſeem with a Witneſs, to contradict ſome Paſſages in his <hi>Vindication,</hi> (tho' <hi>He</hi> at the ſame time, ſuggeſts, <hi>That he is the ſame Man as formerly,</hi>) that <hi>He</hi> may (for the ſatisfaction <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great many Perſons, that are not a little concerned for it) either pleaſe to reconcile thoſe paſsages <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what <hi>He</hi> has formerly ſo induſtriouſly <hi>Preached</hi> and <hi>Written,</hi> or formally retract his <hi>former Principles</hi> on this point, as pernicious to <hi>All Mankind.</hi> By doing whereof (for ought I know) he may more ad<g ref="char:EOLhyphen"/>vantage the <hi>Publick,</hi> than <hi>He</hi> has hitherto done by his <hi>Learned Writings.</hi>
+            </p>
+            <p>I might mind him, That in <hi>Vindicating</hi> himſelf, <hi>He</hi> (as his beſt Topick) might have ſaid ſomething in <hi>Vindication</hi> of <hi>heir Majeſties Government:</hi> But my deſign being chiefly to ſhew <hi>Him,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>He</hi> is at <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with <hi>Himſelf, I</hi> wave it; not doubting but this <hi>Caſe</hi> will, by ſome other Hand, be pre<g ref="char:EOLhyphen"/>ſented to this <hi>Learned Caſuiſt.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175094:2"/>
+            <head>SHERLOCK <hi>againſt</hi> SHERLOCK.</head>
+            <div type="case">
+               <head>The Maſter of the <hi>TEMPLE.</hi> In his Caſe of Allegiance, Affirms</head>
+               <p>THat all Soveraign Princes, who are ſettled in their Thrones, are placed there by God, and inveſted with his Authority, <hi>and therefore muſt be obeyed</hi> by all, Subjects, as the Miniſters of God, <hi>wthout enquiring into their Legal Right and Title to the Throne.</hi> Al<g ref="char:EOLhyphen"/>leg <hi>pag.</hi> 10.</p>
+               <p>That the Scripture has given us no Directions in this Caſe, but to ſubmit, and pay all Obedience of Subjects to the preſent Powers. <hi>It makes no diſtinction, that ever I could find, between Rightful Kings, and <g ref="char:V">Ʋ</g>ſurpers;</hi> between Kings we muſt, and whom we muſt not obey; but the General Rule is, <hi>Let every Soul be ſubject to the higher Powers for all Power is of God,</hi> Ibid. p. 18.</p>
+               <p>
+                  <hi>The Engliſh Monarchy is Here<g ref="char:EOLhyphen"/>ditary,</hi> and the Lineal Heir has the Legal Right to the Crown: Grant this; But ſtill we muſt conſider, how far this is a Law to all private Subjects; how far every Subject is
+<pb n="2" facs="tcp:175094:3"/>bound in Conſcience by this Con<g ref="char:EOLhyphen"/>ſtitution, to give the Poſſeſſion of the Crown to the <hi>Right Heir</hi> and not to ſuffer any one elſe to take it; or it he do, not to pay <hi>Allegiance to him,</hi> or own him for his King. What Law is there that ſays this? And I think the reaſon of the thing doth not prove it. The Law doth not refer the Cognizance of ſuch Matters to private Subjects; and therefore they are not Bound by Law to take care of it; and I know nothing but Law can Bind us to a legal Conſtitution. Legal Rights muſt be determined by alegal Authority; and there is no Authority can take Cognizance of the Titles and Claim of Princes, and the diſpoſal of the Crown, but the Eſtates of the Realm: They indeed are oblidged to take Notice of the legal Deſcent of the Crown; and if through miſtake, or any other Cauſe they ſet the Crown upon a wrong Head, they muſt anſwer for it; but private Subjects, who have no legal Cognizance of the matter, are Bound by no Law, that I know of, to diſown a King, whom the Eſtates have owned, tho' they ſhould think the Right is in the other. If Autho<g ref="char:EOLhyphen"/>rity may not over-rule private Sub<g ref="char:EOLhyphen"/>jects in theſe Caſes, even againſt their own private Opinions, and
+<pb n="3" facs="tcp:175094:3"/>juſtifie their Obedience to a King, who is placed in the Throne, Sub<g ref="char:EOLhyphen"/>jects are in a very ill Caſe, who have no Authority to Judge, and no Pow<g ref="char:EOLhyphen"/>er to Reſiſt: There are numerous Caſes, wherein Subjects muſt ac<g ref="char:EOLhyphen"/>quieſce in the determinations of a legal <hi>Authority,</hi> againſt what they think a legal <hi>Right:</hi> The reaſon and neceſſities of Government require it; and the Law, which gives a <hi>Right</hi> will not allow us to vindicate our <hi>Right</hi> againſt a legal <hi>Authority.</hi> And therefore it doth no follow <hi>meerly from the Law of Succeſſion, that Subjects are Bound in Conſcience to own no Kings, who is not the right<g ref="char:EOLhyphen"/>ful Heir.</hi> Ibid. pag. 52. 53.</p>
+               <p>The Queſton is not, Whether the Monarchy be Hereditary, that is a<g ref="char:EOLhyphen"/>greed, but whether in an Heredita<g ref="char:EOLhyphen"/>ry Monarchy we muſt pay Allegi<g ref="char:EOLhyphen"/>ance to no Prince who is not the le<g ref="char:EOLhyphen"/>gal Heir, tho' poſſeſſed of the Throne; this the Lawyers deny, and produce Law for it; and if there be ſuch Laws, <hi>It is certain by Law, we may pay Allegiance to a King in Poſſeſſion,</hi> notwithſtanding the fun<g ref="char:EOLhyphen"/>damental Conſtitution of an Here<g ref="char:EOLhyphen"/>ditary Monarchy; for the <hi>Law,</hi> which makes one, allows and com<g ref="char:EOLhyphen"/>mands the other; and then it is an Hereditary Monarchy, with this
+<pb n="4" facs="tcp:175094:4"/>reſerve of paying Allegiance to the King in Poſſeſſion, when the legal Heir cannot obtain his Right.</p>
+               <p>And this I take to be a very wiſe Conſtitution, which ſecures the Kings Right, as far as Law can do it; but if the King ſhould be depriv<g ref="char:EOLhyphen"/>ed of his Right, (which the Expe<g ref="char:EOLhyphen"/>rience of all Ages proves he may be) doth not think fit that the <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> ſhould ſink with him, and therefore makes proviſion for the Security of the <hi>Government,</hi> and of the Subjects under the <hi>Regnant Prince,</hi> which the Reaſons and Ne<g ref="char:EOLhyphen"/>ceſſities of Government require and juſtifie, tho' there had been no Law for it.</p>
+               <p>Now it is enough to prove, that <hi>Allegiance</hi> is by Law due to a King <hi>de facto,</hi> if Treaſon may be com<g ref="char:EOLhyphen"/>mitted againſt him; for no <hi>Treaſon</hi> can be committed where no <hi>Allegi<g ref="char:EOLhyphen"/>ance</hi> is due.</p>
+               <p>This is confeſſed, that all ſuch Acts as are <hi>Treaſon</hi> againſt a King <hi>de jure,</hi> are <hi>Treaſon,</hi> when comit<g ref="char:EOLhyphen"/>ed againſt a King <hi>de facto,</hi> but not, ſay they, becauſe <hi>Allegiance</hi> is due to him, but becauſe they are againſt the order of <hi>Government,</hi> and there<g ref="char:EOLhyphen"/>fore are Treaſon by the preſumed conſent of the King <hi>de jure.</hi> In <hi>Anſ.</hi>
+               </p>
+               <p>That ſuch <hi>Acts</hi> are againſt the
+<pb n="5" facs="tcp:175094:4"/>Order of <hi>Government,</hi> and very de<g ref="char:EOLhyphen"/>ſtructive to it, is the only reaſon why they are made Treaſon by Law; and this is a good reaſon why the Law ſhould make them Trea<g ref="char:EOLhyphen"/>ſon againſt a King <hi>de facto,</hi> as a King <hi>de jure Ibid pag.</hi> 57, 58.</p>
+               <p>Yet one may reaſonably pre<g ref="char:EOLhyphen"/>ſume, that a <hi>King</hi> who forſakes his <hi>Kingdom,</hi> to conſult his own Safety will give his <hi>Subjects</hi> leave to con<g ref="char:EOLhyphen"/>ſult theirs: If this will juſtifie a <hi>King</hi> to ſave himſelf, by leaving his <hi>King<g ref="char:EOLhyphen"/>dom,</hi> why will it not juſtifie <hi>Sub<g ref="char:EOLhyphen"/>jects,</hi> when their <hi>King</hi> has left them, to ſubmit and comply with the pre<g ref="char:EOLhyphen"/>vailing Powers, as far as is neceſſa<g ref="char:EOLhyphen"/>ry to preſerve themſelves? That is, even by Oaths of Allegiance; <hi>Self-preſervation is as much a Law to Subjects, as to the Prince; and he is as much Sworn to Govern and Protect his Subjects, as they are to Obey and Defend him; and if the neceſſities of Self preſervation, Ab<g ref="char:EOLhyphen"/>ſolve him from his Oath of Govern<g ref="char:EOLhyphen"/>ing and Protecting his People,</hi> I de<g ref="char:EOLhyphen"/>ſire to know, why the ſame neceſſi<g ref="char:EOLhyphen"/>ty will not abſolve <hi>Subjects</hi> from their Oaths to their Prince. <hi>A Prince may Govern by Law, and Protect his Subjects, and yet in Fact they deny their Allegiance to him.</hi> Alleg. p. 42.</p>
+               <p>
+                  <pb n="6" facs="tcp:175094:5"/>
+It is true, we muſt in all Caſes be contented to ſuffer in doing our Du<g ref="char:EOLhyphen"/>ty; for we muſt chuſe rather to Suffer, than to Sin; and it is no Argument, that anything ceaſes to be my Duty, becauſe it expoſes me to Suffering: <hi>But then we muſt be very ſure that it is our Duty; that it is expreſly enjoyned us by the Laws of God and Nature, before we venture to ſuffer for it.</hi> But then we are to learn our Duty, not from any expreſs Law of God or Nature, but from the Reaſon and Nature of things. <hi>It is a ſufficient Argument that it is not my Duty, which will expoſe me to great ſufferings, with<g ref="char:EOLhyphen"/>out ſerving any Good end;</hi> nay, which expoſes me to Sufferings, for contradicting the natural end and intention of that Duty, for which I pretend to Suffer.</p>
+               <p>But let us grant, that this Princi<g ref="char:EOLhyphen"/>ple is the beſt Security to the Rights of Princes; is the Right of any Prince ſo Sacred, as to ſtand in competition with the very being of Human So<g ref="char:EOLhyphen"/>cieties, and the Safety and Preſerva<g ref="char:EOLhyphen"/>tion of all his <hi>Subjects?</hi> and muſt we then defend a Princes Right, with the Deſtruction of the Nation, and the Ruin of all his Subjects? Which is moſt neceſſary, That the Nation ſhould be, or, that ſuch a <hi>Prince</hi> ſhould Govern it. <hi>p.</hi> 45.</p>
+            </div>
+            <div type="case">
+               <pb n="1" facs="tcp:175094:2"/>
+               <head>The Rector of Saint <hi>George Bo<g ref="char:EOLhyphen"/>tolph-Lane.</hi> In his Caſe of Reſiſtance.</head>
+               <p>THere is another Objection a gainst what the Apoſtle a<g ref="char:EOLhyphen"/>ffirms, That <hi>there is no Power but of God: The Powers that be, are ordained of God.</hi> For, is the Pow<g ref="char:EOLhyphen"/>er of Victorious Rebels and <g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>pers from God? Did <hi>O C.</hi> receive his Power from <hi>God?</hi> then it ſeems, it was unlawful to Reſiſt him too, or to Conſpire againſt him.</p>
+               <p>To this I anſwer, That the moſt Proſperous Rebel is not the Higher, while our <hi>Natural Prince,</hi> to whom we owe Obedience and Subjection, <hi>is in Being.</hi> And therefore tho' ſuch Men may get the Power into their hand by <hi>God's</hi> Permiſſion, yet not by <hi>God's Ordinance; and he who Reſiſts them, does not Reſiſt the Ordinance of GOD, but the Uſur<g ref="char:EOLhyphen"/>pations of Men.</hi> In <hi>Hereditary King<g ref="char:EOLhyphen"/>doms</hi> (<hi>which is</hi> England) <hi>the King never Dies;</hi> but the ſame minute that the natural Perſon of one King Dies, the Crown deſcends upon the next Blood; and therefore he who Rebel<g ref="char:EOLhyphen"/>leth
+<pb n="2" facs="tcp:175094:3"/>againſt the Father, continues a Rebel in the Reign of the Son, which commences with his Father's Death.</p>
+               <p>It is otherwiſe indeed, where none can pretend a greater Right to the Crown, than the <g ref="char:V">Ʋ</g>ſurper; for there Poſſeſſion of Power ſeems to give a Right. Thus many of the <hi>Roman</hi> Emperors came to the Crown by ve<g ref="char:EOLhyphen"/>ry ill means; but when they were Poſſeſt of it, they were the <hi>Higher Powers; for the Crown did not de<g ref="char:EOLhyphen"/>ſcend by Inheritance,</hi> but ſometimes by the Election of the Senate, ſome<g ref="char:EOLhyphen"/>times the Army, which always draws a conſent after it: And there<g ref="char:EOLhyphen"/>fore the Apoſtle does not direct the Chriſtians to enquire by what Title the Emperors <hi>held their Crowns;</hi> but Commands them to ſubmit to thoſe who had the Power in their hands; for the Poſſeſſion of Supreme and Soveraign Power is Title e<g ref="char:EOLhyphen"/>nough, <hi>when there is no better</hi> Title to oppoſe aginst it.</p>
+               <p>There are Two Examples in Scripture, which manifeſtly con<g ref="char:EOLhyphen"/>firm what I have now ſaid.</p>
+               <p>The first is, in the Kingdom of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> after the Ten Tribes had divi<g ref="char:EOLhyphen"/>ded from the Houſe of <hi>Judah,</hi> and the Family of <hi>David, GOD had not entailed the Kingdom upon any
+<pb n="3" facs="tcp:175094:3"/>certain Family;</hi> He had indeed by <hi>Abijah</hi> the Prophet promiſed, after <hi>Solomon</hi>'s Death, Ten Tribes to <hi>Jeroboam,</hi> the Son of <hi>Nebat 1 Kings 11.29.</hi> &amp;c. but had afterwards, by the ſame Prophet, threatned <hi>Jeroboam</hi> to destroy his whole Fa<g ref="char:EOLhyphen"/>mily, <hi>Chap. 15.10, 11. Baaſha</hi> ful<g ref="char:EOLhyphen"/>fils this Propheſie, by the Traite<g ref="char:EOLhyphen"/>rous Murther of <hi>Nadab</hi> (who ſuc<g ref="char:EOLhyphen"/>ceſſed his Father <hi>Jeroboam</hi>in the Kingdom) and <g ref="char:V">Ʋ</g>ſurpt the Govern<g ref="char:EOLhyphen"/>ment himſelf, and ſlew all <hi>Jerobo<g ref="char:EOLhyphen"/>am</hi>'s Houſe, <hi>ver. 28, 29.</hi> This <hi>Mur<g ref="char:EOLhyphen"/>ther</hi> and <hi>Treaſon</hi> is numbred among the Sins of <hi>Baaſha;</hi> for which <hi>GOD</hi> afterwards threatened to deſtroy his Houſe, as he had done the Houſe of <hi>Jeroboam,</hi> chap. <hi>16.</hi> ver. <hi>7. Ela</hi> ſucceeded <hi>Baaſh,</hi> who had no better Title than his Father, and yet <hi>Zimri,</hi> who Slew him, is accuſed of Treaſon for it, <hi>v. 20. Zimri</hi> 
+                  <g ref="char:V">Ʋ</g>ſurpt the King<g ref="char:EOLhyphen"/>dom when he had Slain his Maſter, but he was only a vain Pretender to it, when he wanted Power; for when the People who were Encamp<g ref="char:EOLhyphen"/>ed againſt <hi>Gibbethon,</hi> heard that <hi>Zimri</hi> had Killed the King, they made <hi>Omri</hi> King, and went immediately and Beſieged <hi>Tizza,</hi> where <hi>Zimri</hi> had naken Poſſeſſion of the King's Palace; who, finding no way to E<g ref="char:EOLhyphen"/>ſcape, ſet Fire to it himſelf, and died
+<pb n="4" facs="tcp:175094:4"/>in the Flames of it. And now <hi>Iſrael</hi> was divided between <hi>Omri</hi> and <hi>Ti<g ref="char:EOLhyphen"/>bri;</hi> but thoſe who followed <hi>Omri,</hi> prevailed againſt thoſe who follow<g ref="char:EOLhyphen"/>ed <hi>Tibri;</hi> and <hi>Tribri</hi> died, and <hi>Omri</hi> Reigned, <hi>ver. 21.22.</hi> All which plainly ſhews, that <hi>where there is no regular Succeſſion to the King<g ref="char:EOLhyphen"/>dom,</hi> there, Poſſeſſion of Power makes a King, who cannot after<g ref="char:EOLhyphen"/>wards be reſiſted and oppoſed with<g ref="char:EOLhyphen"/>out the guilt of Treaſon.</p>
+               <p>But it was otherwiſe in the King<g ref="char:EOLhyphen"/>dom of <hi>Judah, which</hi> GOD <hi>himſelf had entailed on</hi> David<hi>'s Family,</hi> as appears from the Example of <hi>Joam,</hi> who was concealed by his Aunt <hi>Je<g ref="char:EOLhyphen"/>hoſheba,</hi> and hid in the Houſe of the Lord for Six Years.</p>
+               <p>During this Time, <hi>Athaliah</hi> Reigned, and had the whole Power of Government in her hands; <hi>but yet this did not make her a Sove<g ref="char:EOLhyphen"/>raign and irreſiſtable Prince, the right Heir of the Crown was yet a<g ref="char:EOLhyphen"/>live:</hi> And therefore in the Seventh Year, <hi>Jehojada</hi> the Prieſt ſet <hi>Joaſh,</hi> upon the Throne, and Slew <hi>Athaliah,</hi> and guilty of no Treaſon or Rebellion in doing ſo, <hi>2 Kings 11.</hi> which ſhews, <hi>That no Uſurpations can extinguiſh the Right and Title of a natural Prince. Such Uſurpers, though they have the Poſſeſſion of the Supreme
+<pb n="5" facs="tcp:175094:4"/>Power, yet they have no right to it; and though</hi> GOD, <hi>for wiſe Rea<g ref="char:EOLhyphen"/>ſons, may ſometimes permit ſuch Uſurpations, yet while his Provi<g ref="char:EOLhyphen"/>dence ſecures the Perſons of ſuch Depoſed and Baniſhed Princes from Violence, he ſecures their Title too.</hi> As it was in <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi>'s Viſion, <hi>Dan. 4.26.</hi> The Tree is cut down, but the Stump of the Roots is left in the Earth. The Kingdom ſhall be ſure to them, after that they ſhall know that the Hea<g ref="char:EOLhyphen"/>vens do Rule.</p>
+               <p>
+                  <hi>Caſe of Reſiſtance of Supreme Powers Pages 127, 128, 129, 130, 131 132.</hi>
+               </p>
+               <p>
+                  <hi>Self-Defence was never allowed by</hi> GOD <hi>or Nature, againſt pub<g ref="char:EOLhyphen"/>lick Authority,</hi> but only againſt Private Violence.</p>
+               <p>There was a Time, when Fa<g ref="char:EOLhyphen"/>thers had the Power of Life and Death over their own Children: Now, I would only ask theſe Men, if a Son, at that time, ſaw his Fa<g ref="char:EOLhyphen"/>ther coming to Kill him, and that, as he thought, very unjuſtly, he might Kill his Father to defend himſelf. This never was allowed by the moſt Barbarous Nations in the World: and yet it may be justified by this Principle of Self-Defence, as it is urged by thoſe Men; which is a plain Argument that it is falſe. It is an
+<pb n="6" facs="tcp:175094:5"/>expreſs Law, <hi>That he that Smiteth his Father or his Mother, ſhall be ſurely put to Death.</hi> Exod. <hi>21.15.</hi> and yet then the Power of Parents was restrained by Publick Laws. And the Authority of a Prince is not leſs Sacred than of a Parent; He's God's Miniſter and Vicege<g ref="char:EOLhyphen"/>rent, and Subjects are expreſly for<g ref="char:EOLhyphen"/>bid to reſiſt; and it is a vain thing to pretend a natural Right, against the expreſs Law of <hi>God.</hi>
+               </p>
+               <p n="2">
+                  <hi>2.</hi> For the Sole Power of the Sword is in the Kings hands; <hi>and therefore no Private Man can take the Sword in his own Defence,</hi> but by the Kings Authority; and cer<g ref="char:EOLhyphen"/>tainly he cannot be preſumed to give any Man Authority, to uſe the Sword againſt himſelf. And there<g ref="char:EOLhyphen"/>fore, as Christ tells <hi>Peter, He that takes the Sword, ſhall Periſh by the Sword;</hi> He who draws the Sword againſt the lawfull Powers, de<g ref="char:EOLhyphen"/>ſerves to dye by it.</p>
+               <p n="3">3. We may conſider alſo, That it is an external Law, <hi>That private Defence muſt give place <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> publick Good. Now, he that takes Arms to de<g ref="char:EOLhyphen"/>fend his own Life, and ſome few others, invol<g ref="char:EOLhyphen"/>ves a whole Nation in Blood and Confuſion, and occaſions the Miſerable Slaughter of more Men than a long Succeſſion of Tyrants could deſtroy.</hi> Such Men Sacrifice many Thouſand Lives, both of Friends and Enemies. to a private Self-Defence, and if this be the Law of Nature, we may well <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nature a Step-Mother, that has Armed us to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> own Ruine and Confuſion.</p>
+               <bibl>
+                  <hi>Caſe of Reſiſtance,</hi> pag. <hi>203, 204, 205.</hi>
+               </bibl>
+            </div>
+            <div type="considerations">
+               <pb n="7" facs="tcp:175094:5"/>
+               <head>Conſiderations and Reflections upon ſome of Doctor <hi>Sherlock</hi>'s Celebrat<g ref="char:EOLhyphen"/>ed Poſitions, concerning Paſſive Obedience, and Non Reſistance.</head>
+               <p>WE ſhall now conſider the Doctor's Reaſons, why the King is <hi>Ir<g ref="char:EOLhyphen"/>reſistible</hi> in all Caſes, which are theſe.</p>
+               <p n="1">1. <hi>That the King has a Perſonal Authority, antecedent to all the Laws of the Land, independent on them, and ſuperior to them.</hi> Caſe of Reſiſtance, <hi>pag,</hi> 196.</p>
+               <p>Now, This is not true, for the <hi>King</hi> is <hi>King</hi> by <hi>Law,</hi> and has his <hi>Au<g ref="char:EOLhyphen"/>thority</hi> from the <hi>Law.</hi> Indeed, our Authors ſays, (in the ſame Page) <hi>That the great Lawyer,</hi> Bracton (by thoſe very words of his, <hi>Lex facit Regem</hi>) <hi>was far enough from understanding, that the King receives his So<g ref="char:EOLhyphen"/>veraign Power from the</hi> Law. I confeſs I never was ſo well acquainted with <hi>Bracton,</hi> as to know what ſecret Meanings he had, contra<g ref="char:EOLhyphen"/>ry to the Senſe of his Words; and therefore cannot tell how far he was from underſtanding. That the <hi>King</hi> receives his Soveraign Power from the <hi>Law;</hi> but I am ſure he was not far from ſaying ſo; for he ſays it in the very next words; <hi>Attribuat igitur Rex quod Lex attribuites, vi<g ref="char:EOLhyphen"/>delicet, Dommationem &amp; Potestatem.</hi> He proves, that the <hi>King</hi> is under the <hi>Law,</hi> and ought to Govern by the <hi>Law,</hi> becauſe he is made <hi>King,</hi> by the <hi>Law,</hi> and receives his <hi>Power</hi> and <hi>Authority</hi> from the <hi>Law;</hi> and then adds, what the Doctor is pleaſed to cite, <hi>Non eſt enim Rex, ubi do<g ref="char:EOLhyphen"/>minatur Voluntas, &amp; non Lex: He is no King who Governs by Arbi<g ref="char:EOLhyphen"/>trary Will, and not by</hi> Law; that is, no lawful <hi>Engliſh</hi> King, <hi>Bracton</hi> muſt mean, for ſtill he may be a Good Outlandiſh and <hi>Aſsyrian King</hi> and <hi>Tyrant,</hi> though his Arbitrary Will does all: For the Doctor (<hi>Caſe of Reſist.</hi> pag, 41.) quotes out of <hi>Dan.</hi> 5.18.19. That <hi>God</hi> gave <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar ſuch an Abſolute Kingdom, that vvhom he vvould he ſlevv, and vvhom he vvould he made Alive, and vvhom he vvould he ſet up, and vvhom he vvould he pulled dovvn,</hi> And I hope no Man Tyrannizes over his People who uſes the Prerogative which <hi>God</hi> has given him; therefore the Doctor rendring <hi>Lex facit Regem, To Govern by Lavv, makes a Soveraign Prince a King, and distinguiſhes him from a Tyrant,</hi> will paſs with none but ſuch ordinary Readers as he write his Book or, and who never ſaw <hi>Bracton.</hi>
+               </p>
+               <p>
+                  <pb n="8" facs="tcp:175094:6"/>
+Chancellor <hi>For teſcue</hi> likewiſe ſays. That a limited Monarch receives his power, <hi>a Populo eſtaxam,</hi> which unriddles the Doctors Riddle in the ſame place, <hi>Hovv the</hi> Law <hi>can make the</hi> King, <hi>vvhen the</hi> King <hi>makes the</hi> Law? But it is ſuch a wonderful thing, that there ſhould be a <hi>Lavv</hi> to create a <hi>King,</hi> and to enable him ſo far in the making of <hi>Laws,</hi> as to make his conſent neceſſary to the being of all Future <hi>Laws;</hi> was it not thus when the two houſes were Erected, and endowed with the like Power, notwithſtanding the Doctors ſays. (<hi>pag.</hi> 196.) <hi>That the</hi> Law <hi>has no Authority, nor can give any, but what it receivs from the</hi> King. For the <hi>Laws</hi> are made <hi>Authoritate Parliamenti,</hi> which is by the <hi>Au<g ref="char:EOLhyphen"/>thority</hi> of the <hi>King, Lords</hi> and <hi>Commons.</hi>
+               </p>
+               <p>But to lay aſide <hi>Bracton</hi> and <hi>Forteſcue,</hi> let us a little reaſon the Matter. This <hi>Perſonal Authority</hi> of the <hi>King,</hi> antecedent to all the <hi>Laws</hi> of the Land independent on them, and ſuperiour to them: whence is it; has be a <hi>Throne</hi> like <hi>God?</hi> Is he of Himſelf, and for Himſelf? Or has he a Perſonal Authority from <hi>God,</hi> antecedent to <hi>Laws,</hi> to be a <hi>King?</hi> Then ſhew a Revelation from <hi>God</hi> where he is named. Or has he the <hi>Natural Authority</hi> of a <hi>Father</hi> to Govern his Children? Then it muſt be proved That he has begotten his three Kingdoms, and all the People, in all other His Majeſties Dominions? Or has he a Perſonal Patriarchal Authority which is ſet up as a ſhadow of the <hi>Authority</hi> of a Father, whereby the Eldeſt <hi>Son</hi> is his <hi>Father</hi> by Repreſentation? Then it muſt be proved. That the <hi>King</hi> is the <hi>Eldest Son</hi> of the <hi>Eldeſt Houſe</hi> of all the <hi>Families</hi> of the Earth. Or were mankind made in the day of their Creation, by <hi>Na<g ref="char:EOLhyphen"/>tions,</hi> and Created <hi>Prince</hi> and <hi>People,</hi> as they were Created <hi>Male</hi> and <hi>Female?</hi> but if none of theſe things can be ſaid, then it remains. That a Civil Authority, that is, a mutual Conſent and Contract of the <hi>Parties,</hi> firſt Founded this Civil Relation of <hi>King</hi> and <hi>Subject,</hi> as we ſee it every day does of <hi>Master</hi> and <hi>Servant,</hi> which is another <hi>Civil Rela<g ref="char:EOLhyphen"/>tion;</hi> and that the Conſent of a <hi>Community</hi> or <hi>Society,</hi> is a <hi>Law.</hi> and the Foundation of all <hi>Civil Laws</hi> whatſoever, is proved beyond all contra<g ref="char:EOLhyphen"/>diction, by Mr. <hi>Hooker Eccl Pol. Li<gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> 1, chap. 10.</p>
+               <p>Another Reaſon which the Doctor gives, why the <hi>King</hi> is <hi>Irreſiſtible in all Caſes,</hi> is <hi>Becauſe he is Soveraign: and it is eſſential to Soveraignty to be irreſiſtible in all Caſes.</hi> Which is falſe: For the King of <hi>Polland <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <pb n="9" facs="tcp:175094:6"/>Soveraign,</hi> he Coins Money with his own Image and Superſcription upon it, which, according to the Doctor, <hi>pag.</hi> 50 <hi>Is a certain Mark of So<g ref="char:EOLhyphen"/>veraignty,</hi> and pag. 51. <hi>By the very Impreſſion on their Money it is evi<g ref="char:EOLhyphen"/>dent, That he is their Soveraign Lord:</hi> He ſtiles himſelf by the ſame <hi>Grace of God</hi> with any King in Chriſtendom, and wears the like Crown: He Aſſembles <hi>Diets;</hi> he diſpoſes of all <hi>Offices;</hi> he judges the <hi>Palatines</hi> themſelves, and is full of the Marks of Soveraignty. And yet he that ſhall take a <hi>Poliſh Penny,</hi> and make ſuch work with it, as the Doctor does with the <hi>Roman Tribute Money,</hi> and out of it read Lectures either of <hi>Active or Paſſive Obedience</hi> in all Caſes, will read amiſs: For in caſe he breake his Coronation Oath, they owe him no <hi>Obedience</hi> at all, of any kind; for this is one Clauſe in it: <hi>Quod ſi Sacramentum meum violavero, Incolae Regni nullam nobis obedientiam praestare tenebuntur.</hi> So that in caſe he violate his Oath, his <hi>Irreſiſtibility</hi> departs from him, and he be<g ref="char:EOLhyphen"/>comes like other Men.</p>
+               <p>I come now to the Doctor's Second Caſe; which is reſolv'd under the covert and Countenance of the former, <hi>That as well inferior Magiſtrats, as others imployed by a</hi> Popiſh <hi>Tyrannical Prince, in the moſt Illegal and Outragious Acts of Violence</hi> (<hi>ſuch as Cutting of Throats,</hi> &amp;c.) <hi>are as Irreſiſtible as the Prince himſelf</hi> (under pretence of having the Prince's Authority to do theſe Acts) <hi>and muſt be ſubmitted to, under pain of Hell, and Eternal Damnation.</hi> Now, to ſhew the Authority which we are bound to ſubmit to, <hi>not in</hi> Laws, <hi>but in Perſons</hi> who Act contrary to Law, he has brought the following Argument, which is the moſt la<g ref="char:EOLhyphen"/>boured of any in his Book: <hi>Nay, it is very falſe and abſurd to ſay, That every Illegal. Is an <g ref="char:V">Ʋ</g>nauthoritative Act, which carrie no Objection with it. This is contrary to the practice of all Judicatures, and the daily Ex<g ref="char:EOLhyphen"/>perience of Men, who ſuffer in their Lives, Bodies and Estates, by an unjust and Illegal Sentence: For the moſt illegal Judgment is Valid, till it be reverſed by ſome Superior Court; which most illegal, but Authori<g ref="char:EOLhyphen"/>tative Judgment, derives its Authority, not from the</hi> Law, <hi>but the but the Perſon of him whoſe Judgment it is.</hi> Caſe of Obed. <hi>Pag.</hi> 193.194.195.</p>
+               <p>Now, to uſe his own words, this is very falſe and abſurd all over.</p>
+               <p>For <hi>first.</hi> Legal and Authorative are all one<g ref="char:punc">▪</g> and Illegal Authority
+<pb n="10" facs="tcp:175094:7"/>is in <hi>England,</hi> unlawful lawful Power. <hi>Secondly,</hi> It is not true, That an Illegal Judgment is valid, till it be revers'd: For the Judgment of a Man to Death, in an Arbitrary way, either contrary to the Verdict of his Jury, or without a Jury, is not Authorative or Valid at all, no not for an hour. But, I ſuppoſe, by <hi>illegal Judgments,</hi> the Doctors means <hi>legal Judgments,</hi> which have Error in them; and if theſe ſhould not be Valid, and ſtand good till that Errour be found in ſome Higher Court, there could not be <hi>legal</hi> nor <hi>Illegal,</hi> nor any Judgments at all; but all humane Judica<g ref="char:EOLhyphen"/>tures muſt come to an end: For if Judgment cannot be given, till we have Judges who are not ſubject to Errour, the Laws muſt ly by and ruſt; and there can be no adminiſtration of Juſtice. <hi>Thirdly,</hi> The Authority of a Judgment which is Erroneous, is not from the Judges Perſonal Authority above the Law, nor from his Miſtakes beſide the Law but from that Juris<g ref="char:EOLhyphen"/>diction and Authority which the Law has given to Courts and Judicial Proceedings, which, if they be in due courſe of Law, are legal, and are pre<g ref="char:EOLhyphen"/>ſumed to be every way right, and as they ſhould be, and free from Errour, till the contrary appears in ſome Higher Court. But if the Judges in <hi>West<g ref="char:EOLhyphen"/>minster-Hall</hi> ſhould uſe a Perſonal Authority, ſuperior to Law, in Judg<g ref="char:EOLhyphen"/>ing Men to Death without a Jury, or in condemning a Man when his Jury acquit him, or the like, the Law having given no Authority to any ſuch proceedings, theſe Judgments would be illegal and void, and have no Authority at all.</p>
+               <p>
+                  <hi>Secondly,</hi> Another Reaſon why we muſt ſubmit to <hi>Illegal Violence</hi> is this: <hi>Becauſe though they have no legal Authority for it, yet we have no legal Authority to defend our ſelves againſt it,</hi> pag, 192 But he himſelf has given as full an anſwer to this as can be deſired, in theſe words, <hi>For no Man can want Authority to defend his Life againſt him that has no Authority to take it away,</hi> pag. 59.</p>
+               <p>
+                  <hi>Thirdly,</hi> We muſt ſubmit to <hi>Illegal Violence,</hi> becauſe <hi>the People can<g ref="char:EOLhyphen"/>not call inferiour Magiſtrates to an Account,</hi> pag 191. But ſure the People may defend themſelves againſt the Murderous Attempts of inferiour Ma<g ref="char:EOLhyphen"/>giſtrates, without pretending to call them to an account, or ſitting in Judgment upon them: And when they themſelves are called to an ac<g ref="char:EOLhyphen"/>count for this Defence, they may give a very good account of it, by the 28. <hi>H.</hi> 8. <hi>cap.</hi> 5.</p>
+               <p>
+                  <pb n="11" facs="tcp:175094:7"/>
+Fourthly, <hi>We must not defend our ſelves when we are Perſecuted to Death for our Religion, contrary to the Laws of</hi> England, <hi>becauſe we must not defend our ſelves, when we are thus perſecuted contrary to the Laws of</hi> God <hi>and Nature, which are as Sacred and inviolable as the Laws of our Country.</hi> Caſe of Alleg <hi>p</hi> 200.</p>
+               <p>
+                  <hi>Anſwer.</hi> I grant that the Laws <hi>God</hi> and <hi>Nature</hi> are more ſacred and Inviolable than the Laws of our Country; but they give us no Civil Rights and Liberties, as the Laws of <hi>England</hi> have done. Every Leige Subject of <hi>England</hi> has a legal Property in his Life, Li<g ref="char:EOLhyphen"/>berty and Eſtate, in the free Exerciſe of the <hi>Protestant Religion</hi> eſta<g ref="char:EOLhyphen"/>bliſhed amongſt us; and a legal Poſſeſſion may be legally defended: Now, the Laws of <hi>England,</hi> in Queen <hi>Mary</hi>'s Time were againſt the <hi>Protestants,</hi> and ſtript them of this unvaluable Bleſſing, and there<g ref="char:EOLhyphen"/>fore tho' they choſe rather to obſerve the Laws of <hi>God</hi> and Nature, than thoſe of their Country, which at that time violated both the other; yet withal, they ſubmitted to the Laws of their Country, which alone <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and take away all legal Rights and Titles, and, when all is ſaid, are <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> only Meaſures of Civil Obedience.</p>
+               <p>Fifthly, <hi>Men muſt not defend their Lives against a lawleſs <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Perſecution, when they are Condemned by no Law, becau<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> defend their Lives, when they are Condemned by a Wicked, Perſecuting,</hi> Popiſh <hi>Law: For ſuch lawleſs Perſecution, has as much Authority as ſuch a Wicked Perſecuting Law.</hi> pag. 202. This is manifeſtly falſe: For a lawleſs <hi>Popiſh</hi> Perſecution has no Authority at all, but has all the Au<g ref="char:EOLhyphen"/>thority of Heaven and Earth againſt it; whereas a wicked <hi>Popiſh,</hi> Per<g ref="char:EOLhyphen"/>ſecuting Law, tho', as it is wicked, it cannot Command our Obedience; yet, as it is a Law, it may diſpoſe of our Civil Rights. If Queen <hi>Mary</hi>'s Laws were no Laws, becauſe they were wicked Perſecuting Laws, why were they Repealed? why were they not declared to be null from the beginning?</p>
+               <p>Sixthly, <hi>That Non Reſiſtance of Illegal Violence, is the best way to ſecure the publick Peace and Tranquility, and the beſt way for every Man's private Defence; for ſelf-defence may involve many others in Blood, and beſides, expoſes a Man's ſelf.</hi> pag. 205, 206. That is to ſay, when the publick Peace is violated in an high manner, the beſt way to ſe<g ref="char:EOLhyphen"/>cure
+<pb n="12" facs="tcp:175094:8"/>is quietly to ſuffer it ſtill to be broken farther; a Man's beſt de<g ref="char:EOLhyphen"/>fence is to Die patiently, for fear of being Killed: And when <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are broke looſe, the only way to prevent the effuſion of more Chri<g ref="char:EOLhyphen"/>ſtian Blood, is to let them alone. Now, in oppoſition to this Doctrine I ſhall only remember the Doctor, That if there had not been a Defence made againſt the <hi>Irish Cut-Throats</hi> in <hi>Forty One,</hi> though they had the Impudence to pretend the King's Commiſſion, there had hardly been <hi>Proteſtant</hi> left, but the Preſtilent <hi>Northern Hereſie</hi> had been through<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> extirpated in that Kingdom:</p>
+               <p>
+                  <hi>Seventhly.</hi> Another Reaſon is, <hi>Becauſe Non Reſiſtance is certainly the beſt way to prevent the change of a Limited into an Abſolute Monar<g ref="char:EOLhyphen"/>chy, pag.</hi> 212. Now, this is ſo far from being true, that on the other hand, abſolute <hi>Non Reſiſtance,</hi> even of the moſt illegal Violence, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> actually change the Government, and ſets up an <hi>Abſolute</hi> and <hi>Arbitra<g ref="char:EOLhyphen"/>ry Power</hi> in the ſhorteſt way, and by the ſurer ſide. For a Prince, whom the Laws themſelves have made <hi>Abſolute,</hi> has thereby no more than a Right and Title to an <hi>Abſolute Subjection;</hi> but <hi>Non Reſiſtance</hi> puts him into the actual Poſſeſſion of it. The Doctor himſelf has made this <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> beyond all contradiction; for, he ſays, That <hi>Non-Reſiſtance</hi> is as per<g ref="char:EOLhyphen"/>fect <hi>Subjection,</hi> as can be paid to Soveraign Princes, <hi>pag.</hi> 44. and 11<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, he calls it, <hi>The only perfect and abſolute Subjection we owe to Princes.</hi> Now, the moſt perfect and abſolute Subjection that can be paid, erects the moſt abſolute Government that can be deviſed. For theſe words are of Eternal Truth, which we read in <hi>pag.</hi> 64. of this Book; <hi>For Autho<g ref="char:EOLhyphen"/>rity and Subjection are Correlates, they have mutual reſpect to each other, and therefore they muſt stand and fall together: There is no Au<g ref="char:EOLhyphen"/>thority, where there is no Subjection due; and there is no Subjection due, where there is no Authority.</hi> And is not this as bright and as evident a Truth: There is no abſolute Authority, where there is no abſolute Sub<g ref="char:EOLhyphen"/>jection due; and there can be no abſolute Subjection due, where there is no abſolute Authority?</p>
+               <p>I ſhall now produce ſome Reaſons, to prove the Lawfulneſs of De<g ref="char:EOLhyphen"/>fending our ſelves againſt Illegal Violence; which is a Truth ſo obvious, and ſo agreeable to the common ſenſe of Mankind, that even thoſe Men, who ſet themſelves to oppoſe it, do often times aſſert it unawares, and
+<pb n="13" facs="tcp:175094:8"/>gave unanſwerable Reaſons for it; I ſhall therefore, firſt ſet down thoſe Conceſſions which the force of Truth hath Extorted from the Doctor, and ſecondly, add ſome other Arguments to them.</p>
+               <p>Firſt, <hi>No Man wants Authority to defend his Life againſt him who has no Authority to take it way,</hi> pag. 69. <hi>But no Man whatſoever has any juſt and legal Authority,</hi> (that is, any Authority at all,) <hi>to take it away contrary to Law,</hi> pag. 191. And from theſe premiſes, it is eaſie for any Man to infer the Concluſion.</p>
+               <p>Secondly, <hi>He that Reſiſts the <g ref="char:V">Ʋ</g>ſurpations of Men, does not Reſiſt the Ordinance of God, which alone is forbidden to be Reſiſted. But Acts of Arbitrary and Illegal Violence, are the <g ref="char:V">Ʋ</g>ſurpations of Men.</hi> Theſe again are the Doctors Doctrines, the former, <hi>pag.</hi> 128. the other, <hi>pag,</hi> 211, 212. he acknowledges, that the aſſuming of an Abſolute and Ar<g ref="char:EOLhyphen"/>bitrary Power in this Kingdom, would be Uſurpation; though he ſays at the ſame time, <hi>That no Prince in this Kingdom ever <g ref="char:V">Ʋ</g>ſurped ſuch a Power,</hi> which is notoriouſly falſe, for <hi>Richard</hi> the Second by Name did. not to mention any other.</p>
+               <p>Thirdly, The Doctor, <hi>pag,</hi> 126. has theſe words, <hi>Every Man has the Right of Self-Preſervation, as inti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e under Civil Government, as he had in a State of Nature: <g ref="char:V">Ʋ</g>nder what Government ſoever</hi> I <hi>live,</hi> I <hi>may ſtill kill another Man, when</hi> I <hi>have no other way to preſerve my life from unjuſt Violence by private Hands.</hi> Now the Hands of Subordinate Ma<g ref="char:EOLhyphen"/>giſtrates, Imploy'd in Acts of Illegal Violence, are private Hands, and Armed with no manner of Authority at all; of which this is a moſt con<g ref="char:EOLhyphen"/>vincing Proof, <hi>That they may be Hanged by Law for ſuch Acts, which no Man can or ought to Suffer for what he doth by Authority.</hi> They are no Officers at all in ſuch Acts, for Illegal Violence is no part of their Office. Now, after the Doctor has anſwered his own Arguments, I ſhall deſire him to do as much for theſe which follow.</p>
+               <p>
+                  <hi>Firſt,</hi> No Man can Authorize himſelf: But in Acts of Illegal Violence if a Subordinate Magiſtrate have any Authority at all, he muſt Autho<g ref="char:EOLhyphen"/>rize himſelf: For it is a contradiction to ſay, The Law Authorize him to do an Illegal Act, as the Doctor well obſerves, <hi>pag.</hi> 195. And it is falſe to ſay, <hi>That the King, who can do no wrong, can Authorize another to do it.</hi> In the great Conference of the Lords and Commons, 3 <hi>Caroli,</hi>
+                  <pb n="14" facs="tcp:175094:9"/>concerning the Contents of the Petition of Right, the Law was held to be, <hi>That if the King Command a Man to do Injury to another, the Com<g ref="char:EOLhyphen"/>mand is void, and the Actor of it Author, and the Actor becomes the Wrong doer;</hi> that is, he Acts of his own Head, and Authorizes himſelf.</p>
+               <p>
+                  <hi>Secondly,</hi> The Illegal Violence of Subordinate Magiſtrates cannot be more Irreſiſtible, only by being more Criminal than it is in other Men; for that would be to make a Mans Crime to be his Protection. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Illegal Violence done by ſubordinate Magiſtrates, is not only as <hi>inau<g ref="char:EOLhyphen"/>thoritative,</hi> as if it were committed by private Perſons, but likewiſe more Criminal, as being done with a face and colour of Authority, and under pretence of Law, making that partaker of their Crime, violati<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and blemſhing the Law at once.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:175094:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
